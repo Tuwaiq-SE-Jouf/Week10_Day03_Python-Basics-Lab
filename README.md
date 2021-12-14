@@ -1,87 +1,3 @@
-
-
-## Task 1:
-- Initialize a global variable with the value of 7.
-- Initialize another global variable with the value of 9.
-- Create a function that adds the first and second integer
-
-## Task 2:
-- Create a function that finds the factorial of an inputted number
-
-
-## Task 3:
-Write a program to display all prime numbers within a range spcified by user input 
-
-A prime number is a natural number greater than 1 that is not a product of two smaller natural numbers. 
-
-Examples: 
-* 10 is not a prime number because it can be made by 2×5 = 10
-* 11 is a prime number because no other whole numbers multiply together to make it.
-
-* Given range: 
-start = 50
-end = 100
-
-* Expected output:
-Prime numbers between 25 and 50 are:
-53, 59, 61, 67, 71, 73, 79, 83, 89, 97
-
-
-## Task 4:
-
-Write a program to create a function show_student() using the following conditions.
-
-* It should accept the student’s name and GPA and display both.
-* If the GPA is missing in the function call then assign default value 0 to GPA
-
-
-
-
-<!--
-## Task 1:
-- Initialize a global variable with the value of 7.
-- Initialize another global variable with the value of 9.
-- Create a function that adds the first and second integer
-
-## Task 2:
-- Create a function that finds the factorial of an inputted number
-
-
-## Task 3:
-Write a program to display all prime numbers within a range spcified by user input 
-
-A prime number is a natural number greater than 1 that is not a product of two smaller natural numbers. 
-
-Examples: 
-* 10 is not a prime number because it can be made by 2×5 = 10
-* 11 is a prime number because no other whole numbers multiply together to make it.
-
-* Given range: 
-start = 50
-end = 100
-
-* Expected output:
-Prime numbers between 25 and 50 are:
-53, 59, 61, 67, 71, 73, 79, 83, 89, 97
-
-
-## Task 4:
-
-Write a program to create a function show_student() using the following conditions.
-
-* It should accept the student’s name and GPA and display both.
-* If the GPA is missing in the function call then assign default value 0 to GPA
-
-<br>
-
-
-
-
-
-## Task 3: 
-- Given the names and grades for each student in a class of  students, store them in a nested list and print the name(s) of any student(s) having the second lowest grade.
-
-
 # You have a choice of doing 8 of the following. Task 10 is Mandatory.
 
 ## Task 1:
@@ -145,4 +61,88 @@ Examples:
 
 ## Bonus 2:
 - Given a string of digits, return the longest substring with alternating odd/even or even/odd digits. If two or more substrings have the same length, return the substring that occurs first.
+
+
+
+
+
+<!--
+## Task 1:
+- Initialize a global variable with the value of 7.
+- Initialize another global variable with the value of 9.
+- Create a function that adds the first and second integer
+
+## Task 2:
+- Create a function that finds the factorial of an inputted number
+
+
+## Task 3:
+Write a program to display all prime numbers within a range spcified by user input 
+
+A prime number is a natural number greater than 1 that is not a product of two smaller natural numbers. 
+
+Examples: 
+* 10 is not a prime number because it can be made by 2×5 = 10
+* 11 is a prime number because no other whole numbers multiply together to make it.
+
+* Given range: 
+start = 50
+end = 100
+
+* Expected output:
+Prime numbers between 25 and 50 are:
+53, 59, 61, 67, 71, 73, 79, 83, 89, 97
+
+
+## Task 4:
+
+Write a program to create a function show_student() using the following conditions.
+
+* It should accept the student’s name and GPA and display both.
+* If the GPA is missing in the function call then assign default value 0 to GPA
+
+<br>
+
+
+
+
+
+## Task 3: 
+- Given the names and grades for each student in a class of  students, store them in a nested list and print the name(s) of any student(s) having the second lowest grade.
+
+
+## Task 1:
+- Initialize a global variable with the value of 7.
+- Initialize another global variable with the value of 9.
+- Create a function that adds the first and second integer
+
+## Task 2:
+- Create a function that finds the factorial of an inputted number
+
+
+## Task 3:
+Write a program to display all prime numbers within a range spcified by user input 
+
+A prime number is a natural number greater than 1 that is not a product of two smaller natural numbers. 
+
+Examples: 
+* 10 is not a prime number because it can be made by 2×5 = 10
+* 11 is a prime number because no other whole numbers multiply together to make it.
+
+* Given range: 
+start = 50
+end = 100
+
+* Expected output:
+Prime numbers between 25 and 50 are:
+53, 59, 61, 67, 71, 73, 79, 83, 89, 97
+
+
+## Task 4:
+
+Write a program to create a function show_student() using the following conditions.
+
+* It should accept the student’s name and GPA and display both.
+* If the GPA is missing in the function call then assign default value 0 to GPA
+
 
