@@ -56,8 +56,6 @@ Examples:
 - Values found horizontally or vertically are good but values found diagonally are not counted
 - Take these values extracted and feed them into a 1 dimensional array.
 - Use a nested if statement in a while loop that is running as long as the values are not found and the time of day is between 12:00pm Gulf Pacific Time and 3:25 Gulf Pacific Time.
-- In the if statement have it check if the matrix has numbers that are double the square root of another number.
-
 
 ## Bonus 1:
 - Given two strings s and t, create a function to determine if they are isomorphic. Two strings are isomorphic if the characters in s can be replaced to get t. All occurrences of a character must be replaced with another character while preserving the order of characters. No two characters may map to the same character but a character may map to itself.
